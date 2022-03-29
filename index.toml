@@ -461,6 +461,11 @@ hash = "aaf6245f6516b7775230a7e2a02090438508082d184b8d4ee6ce1029c2af75ea"
 metafile = true
 
 [[files]]
+file = "mods/grappling-hook-mod.toml"
+hash = "ec5c41ee8704a6b996b702cb715c3cd6b180d8f11940d0d0f22d4755ce1a65a4"
+metafile = true
+
+[[files]]
 file = "mods/guard-villagers.toml"
 hash = "cf4e82a7d4f0093f6587a8cc7905c465c0f5851168d3d4411aed72bc0b2daf9e"
 metafile = true
