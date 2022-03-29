@@ -1,0 +1,13 @@
+name = "Enchantment Transfer [Forge]"
+filename = "enchantmenttransfer-0.0.2-1.18.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3611/588/enchantmenttransfer-0.0.2-1.18.1.jar"
+hash-format = "sha1"
+hash = "12da5266ce398c7c8048beefc14b01b11ed40fb1"
+
+[update]
+[update.curseforge]
+file-id = 3611588
+project-id = 567984

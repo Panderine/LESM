@@ -1,0 +1,13 @@
+name = "Deep Resonance"
+filename = "deepresonance-3.0.3-beta.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3670/606/deepresonance-3.0.3-beta.jar"
+hash-format = "sha1"
+hash = "05e682f9cc09925f4f4aa05e1addff3c177ca93d"
+
+[update]
+[update.curseforge]
+file-id = 3670606
+project-id = 233398

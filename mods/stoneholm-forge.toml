@@ -1,0 +1,13 @@
+name = "Stoneholm, Underground Villages (Forge)"
+filename = "stoneholm-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3614/629/stoneholm-1.4.1.jar"
+hash-format = "sha1"
+hash = "b5b748a4f4f5a3d4bc0b09a279bd931c4b0447e7"
+
+[update]
+[update.curseforge]
+file-id = 3614629
+project-id = 461822

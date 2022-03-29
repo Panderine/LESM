@@ -1,0 +1,13 @@
+name = "Untamed Wilds"
+filename = "untamedwilds-1.18.1-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3681/709/untamedwilds-1.18.1-2.0.0.jar"
+hash-format = "sha1"
+hash = "d4db04658fbcbfb2fe9e116f80164ba507be9b27"
+
+[update]
+[update.curseforge]
+file-id = 3681709
+project-id = 457252

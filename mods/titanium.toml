@@ -1,0 +1,13 @@
+name = "Titanium"
+filename = "titanium-1.18-3.4.1-31.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3622/220/titanium-1.18-3.4.1-31.jar"
+hash-format = "sha1"
+hash = "6a594ec6735a68ead67bebb1797b016311ccff11"
+
+[update]
+[update.curseforge]
+file-id = 3622220
+project-id = 287342

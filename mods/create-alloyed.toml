@@ -1,0 +1,13 @@
+name = "Create: Alloyed"
+filename = "alloyed-1.18.1-v1.2a.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3669/916/alloyed-1.18.1-v1.2a.jar"
+hash-format = "sha1"
+hash = "a5a0c1a28861c6a7831c6d4e64f79a82572e828c"
+
+[update]
+[update.curseforge]
+file-id = 3669916
+project-id = 564792

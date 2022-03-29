@@ -1,0 +1,13 @@
+name = "Radium Reforged"
+filename = "radium-0.7.7g.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3637/704/radium-0.7.7g.jar"
+hash-format = "sha1"
+hash = "e8d001336e9d156e2c6787216d0cc5ce17f374d7"
+
+[update]
+[update.curseforge]
+file-id = 3637704
+project-id = 570017

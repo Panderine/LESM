@@ -1,0 +1,13 @@
+name = "SuperMartijn642's Core Lib"
+filename = "supermartijn642corelib-1.0.16b-mc1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3649/270/supermartijn642corelib-1.0.16b-mc1.18.jar"
+hash-format = "sha1"
+hash = "fe39da7b3652c495fb8b770d38e71e7c50cbebf9"
+
+[update]
+[update.curseforge]
+file-id = 3649270
+project-id = 454372

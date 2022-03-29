@@ -1,0 +1,13 @@
+name = "Collective (Forge)"
+filename = "collective-1.18.1-4.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3650/976/collective-1.18.1-4.7.jar"
+hash-format = "sha1"
+hash = "0fbb4934a2879c34bcde0e228991845bef9c0a92"
+
+[update]
+[update.curseforge]
+file-id = 3650976
+project-id = 342584

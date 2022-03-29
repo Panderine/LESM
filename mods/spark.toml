@@ -1,0 +1,13 @@
+name = "spark"
+filename = "spark-1.8.6-forge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3644/347/spark-1.8.6-forge.jar"
+hash-format = "sha1"
+hash = "7a6069a5a9aba545c8c114ef810b5595a27b80e0"
+
+[update]
+[update.curseforge]
+file-id = 3644347
+project-id = 361579

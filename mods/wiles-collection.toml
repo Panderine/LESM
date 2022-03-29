@@ -1,0 +1,13 @@
+name = "WilE's Collection"
+filename = "wilescollection-1.18.1-1.1.1-b6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3635/402/wilescollection-1.18.1-1.1.1-b6.jar"
+hash-format = "sha1"
+hash = "f69f57a102570ec87c0d9980e29575c5c1c551d1"
+
+[update]
+[update.curseforge]
+file-id = 3635402
+project-id = 485960

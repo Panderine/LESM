@@ -1,0 +1,13 @@
+name = "Les enfants sans mains"
+author = "Panderine"
+version = "1.0.0"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c12d80f8239c30ac194fe62c460c02bf12fb3dd1bbe82a94da10ce20e1b78f52"
+
+[versions]
+forge = "39.1.2"
+minecraft = "1.18.1"

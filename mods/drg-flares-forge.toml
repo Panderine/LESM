@@ -1,0 +1,13 @@
+name = "DRG Flares (Forge)"
+filename = "drg_flares-1.18-forge-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3620/445/drg_flares-1.18-forge-1.2.1.jar"
+hash-format = "sha1"
+hash = "edef263e7ee9fca21ccd6720f26e3ae7f029b657"
+
+[update]
+[update.curseforge]
+file-id = 3620445
+project-id = 568536

@@ -1,0 +1,13 @@
+name = "Bonsai Trees 3"
+filename = "bonsaitrees3-3.0.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3645/388/bonsaitrees3-3.0.4.jar"
+hash-format = "sha1"
+hash = "037bbf627ce626eb2708a40e268b6b559d0ef680"
+
+[update]
+[update.curseforge]
+file-id = 3645388
+project-id = 278993

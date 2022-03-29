@@ -1,0 +1,13 @@
+name = "Castle in the Sky"
+filename = "castle_in_the_sky-1.18.1-0.4.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3628/55/castle_in_the_sky-1.18.1-0.4.0.jar"
+hash-format = "sha1"
+hash = "1afd5c229e283c4238712e9397e0c180fb70ede1"
+
+[update]
+[update.curseforge]
+file-id = 3628055
+project-id = 496698

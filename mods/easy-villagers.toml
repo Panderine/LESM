@@ -1,0 +1,13 @@
+name = "Easy Villagers"
+filename = "easy_villagers-1.18.1-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3635/345/easy_villagers-1.18.1-1.0.2.jar"
+hash-format = "sha1"
+hash = "edaac26bd4a15586b4e42d6e564b9dc954076e92"
+
+[update]
+[update.curseforge]
+file-id = 3635345
+project-id = 400514

@@ -1,0 +1,13 @@
+name = "[Forge] Expanded Storage"
+filename = "expandedstorage-7.3.10+1.18.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3666/59/expandedstorage-7.3.10+1.18.1.jar"
+hash-format = "sha1"
+hash = "0ab7d1f6a769fcfcdb316f6590ec0b6e10d7ccbd"
+
+[update]
+[update.curseforge]
+file-id = 3666059
+project-id = 362415

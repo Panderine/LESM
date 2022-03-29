@@ -1,0 +1,13 @@
+name = "Libnonymous"
+filename = "libnonymous-2.0.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3662/909/libnonymous-2.0.5.jar"
+hash-format = "sha1"
+hash = "ffe45dd38565b0516c5c0ec62fe067b84e5d9061"
+
+[update]
+[update.curseforge]
+file-id = 3662909
+project-id = 357557

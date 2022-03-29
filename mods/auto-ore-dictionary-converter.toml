@@ -1,0 +1,13 @@
+name = "Auto Ore Dictionary Converter"
+filename = "autooredictconv-1.18-18.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3611/73/autooredictconv-1.18-18.0.0.jar"
+hash-format = "sha1"
+hash = "c11b17341cb62f254d7ef8e1619a8db06c2557f3"
+
+[update]
+[update.curseforge]
+file-id = 3611073
+project-id = 232650

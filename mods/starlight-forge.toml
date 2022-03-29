@@ -1,0 +1,13 @@
+name = "Starlight (Forge)"
+filename = "starlight-1.0.1+forge.fef9eb9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3667/412/starlight-1.0.1+forge.fef9eb9.jar"
+hash-format = "sha1"
+hash = "94ea696323b95c0824f276f5485a61af0fbcceb5"
+
+[update]
+[update.curseforge]
+file-id = 3667412
+project-id = 526854

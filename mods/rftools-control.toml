@@ -1,0 +1,13 @@
+name = "RFTools Control"
+filename = "rftoolscontrol-1.18-5.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3603/60/rftoolscontrol-1.18-5.0.1.jar"
+hash-format = "sha1"
+hash = "1d255580078887e92132108104160966628685d5"
+
+[update]
+[update.curseforge]
+file-id = 3603060
+project-id = 250763

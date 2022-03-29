@@ -1,0 +1,13 @@
+name = "Architectury API (Forge)"
+filename = "architectury-3.7.37.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3717/909/architectury-3.7.37.jar"
+hash-format = "sha1"
+hash = "104e1be54e4047f094f6d4bb072a812c665272cf"
+
+[update]
+[update.curseforge]
+file-id = 3717909
+project-id = 419699

@@ -1,0 +1,13 @@
+name = "Portality"
+filename = "portality-1.18.1-3.3.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3632/809/portality-1.18.1-3.3.3.jar"
+hash-format = "sha1"
+hash = "3a921d2c23525e7996c682e649e9e61b0bb93b6d"
+
+[update]
+[update.curseforge]
+file-id = 3632809
+project-id = 291493

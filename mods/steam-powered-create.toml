@@ -1,0 +1,13 @@
+name = "Create: Steam Powered"
+filename = "steampowered-1.18.1-2.0.1-alpha.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3717/756/steampowered-1.18.1-2.0.1-alpha.jar"
+hash-format = "sha1"
+hash = "8b964142bd16574e644a1a88a70e3e6e5c877fe0"
+
+[update]
+[update.curseforge]
+file-id = 3717756
+project-id = 534610

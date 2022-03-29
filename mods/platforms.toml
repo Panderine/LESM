@@ -1,0 +1,13 @@
+name = "Platforms"
+filename = "platforms-1.18-1.9.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3609/132/platforms-1.18-1.9.1.jar"
+hash-format = "sha1"
+hash = "8de38a183f48ed2a1042bbe50bfa409b7373deff"
+
+[update]
+[update.curseforge]
+file-id = 3609132
+project-id = 244786

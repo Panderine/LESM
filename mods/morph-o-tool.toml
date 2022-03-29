@@ -1,0 +1,13 @@
+name = "Morph-o-Tool"
+filename = "Morph-o-Tool-1.5-31.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3710/335/Morph-o-Tool-1.5-31.jar"
+hash-format = "sha1"
+hash = "90ebd44e72fbef63990f4815b3d7e61cd3064242"
+
+[update]
+[update.curseforge]
+file-id = 3710335
+project-id = 245287

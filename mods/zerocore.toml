@@ -1,0 +1,13 @@
+name = "ZeroCore 2"
+filename = "ZeroCore2-1.18.1-2.1.11.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3576/36/ZeroCore2-1.18.1-2.1.11.jar"
+hash-format = "sha1"
+hash = "7a2eb7b19bf5745cf16e9e2f35d1a9ab30cdf7ee"
+
+[update]
+[update.curseforge]
+file-id = 3576036
+project-id = 247921
