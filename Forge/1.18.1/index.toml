@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/art-of-forging-a-tetra-addon.toml"
-hash = "335c7b5ce2d0eb9130a5950c7286d801a11fdd5aa09c174e4e25234579dab234"
+hash = "9c127e9f0bcf5bd66e1157bf608e9757834beadad09ce69af894a5b347a7162f"
 metafile = true
 
 [[files]]
@@ -472,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/grimoire-of-tetra.toml"
-hash = "ac0ad936538687ec4d10807de5098aeebb66609ea0d568bb9b47739ddcfc89bb"
+hash = "25474062e16a203831409939b8dd3bc4cc7bfdf8451b4bab7665e00e1fe9995c"
 metafile = true
 
 [[files]]
