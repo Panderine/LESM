@@ -976,6 +976,11 @@ hash = "827123750d36431c2f1a46d128af31f7d21862f13776d1bfda58ecd7ff6681a3"
 metafile = true
 
 [[files]]
+file = "mods/voidtotem.toml"
+hash = "49d289b6bc04500f095c0ba038b6aa1fb8b4cf733502780f8c173d7eeda01e4c"
+metafile = true
+
+[[files]]
 file = "mods/wall-jump.toml"
 hash = "ce76cee56fdb33248a76b968d63ec93ddabaa3cab1ac1280741da40fc80d5906"
 metafile = true
