@@ -716,11 +716,6 @@ hash = "8f7d460c87fb4e1e350f9079327bb9cf39dfd6b8ec27d0094839e6a0615777c4"
 metafile = true
 
 [[files]]
-file = "mods/oculus.toml"
-hash = "0b98d6131890189f3dd88be926cb8f87211a83bf597cd0f22e22ab393cbf4711"
-metafile = true
-
-[[files]]
 file = "mods/oh-the-biomes-youll-go.toml"
 hash = "c6a9b3deb42cf52b3478bc5c720a9f32fd6bdd785987b859ddab246d623b8453"
 metafile = true
@@ -963,11 +958,6 @@ metafile = true
 [[files]]
 file = "mods/villager-names.toml"
 hash = "827123750d36431c2f1a46d128af31f7d21862f13776d1bfda58ecd7ff6681a3"
-metafile = true
-
-[[files]]
-file = "mods/voidtotem.toml"
-hash = "e2d54ec0ac85be75f2b0cde3df61ad02a792f6c32316d4156758e89f22bb8ade"
 metafile = true
 
 [[files]]
