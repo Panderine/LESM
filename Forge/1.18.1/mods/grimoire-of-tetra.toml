@@ -1,0 +1,13 @@
+name = "Grimoire of Tetra"
+filename = "grimoire_of_tetra-1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3723/994/grimoire_of_tetra-1.1.jar"
+hash-format = "sha1"
+hash = "fc1d216895786cb42012c45a333698fd61a65e2b"
+
+[update]
+[update.curseforge]
+file-id = 3723994
+project-id = 597869

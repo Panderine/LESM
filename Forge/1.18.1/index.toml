@@ -51,6 +51,11 @@ hash = "2e7961920399e318860505d10069acd6cbd7e1e1f4a40172883af20805680015"
 metafile = true
 
 [[files]]
+file = "mods/art-of-forging-a-tetra-addon.toml"
+hash = "335c7b5ce2d0eb9130a5950c7286d801a11fdd5aa09c174e4e25234579dab234"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.toml"
 hash = "621326086040585df38e9f7edf36632c299d0b247c16ca12c06aed5c839e4496"
 metafile = true
@@ -463,6 +468,11 @@ metafile = true
 [[files]]
 file = "mods/grappling-hook-mod.toml"
 hash = "ec5c41ee8704a6b996b702cb715c3cd6b180d8f11940d0d0f22d4755ce1a65a4"
+metafile = true
+
+[[files]]
+file = "mods/grimoire-of-tetra.toml"
+hash = "ac0ad936538687ec4d10807de5098aeebb66609ea0d568bb9b47739ddcfc89bb"
 metafile = true
 
 [[files]]
@@ -908,6 +918,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.toml"
 hash = "cf7aeeb3e29bcd83af34db5e957946f869db78149a85c6bb31d46a3605963d85"
+metafile = true
+
+[[files]]
+file = "mods/tetra-pak.toml"
+hash = "7ad15e028d30d334a0544fb0d7ca82dc4a6fdc500cedecae06143e3771f8712c"
 metafile = true
 
 [[files]]
