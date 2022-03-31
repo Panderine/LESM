@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.toml"
-hash = "3c6d5d2be04b53ef4f56b153596174872bc9b1ce5f29f2dbd61271a1692270f5"
+hash = "e4d5ea9a05d11dcbfd435535f676fc23e4b58a36d0771e8b7559b1e3b1d9f27d"
 metafile = true
 
 [[files]]
@@ -657,7 +657,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.toml"
-hash = "fb63e265179a6d56d31b83b208c454f59a71f2ec43f00f51b72a64fa579addf6"
+hash = "47430f9ab9bdc1c4eb3801fb330729de727f7b9e6303f62874588f7a98452edc"
 metafile = true
 
 [[files]]
