@@ -1,13 +1,13 @@
 name = "Tetra Pak"
-filename = "tetrapak-1.18.1-0.4.2.jar"
+filename = "tetrapak-1.18.1-0.4.3.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3724/12/tetrapak-1.18.1-0.4.2.jar"
+url = "https://edge.forgecdn.net/files/3726/132/tetrapak-1.18.1-0.4.3.jar"
 hash-format = "sha1"
-hash = "67bdc14c69f85c852930ca19e12683bba0c2562c"
+hash = "555d4f79e71a16f51242d2299ab9e62b8551afb5"
 
 [update]
 [update.curseforge]
-file-id = 3724012
+file-id = 3726132
 project-id = 463554

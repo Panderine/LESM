@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-biome-blend.toml"
-hash = "e687add31c02e6e328f1b5d50c5406547aede2e59116b2da04d40ffd84a64725"
+hash = "3af7a9d60ca1a280fa3d0ad622ff858c6c2abc81793506eaa6b5bcebc30879c7"
 metafile = true
 
 [[files]]
@@ -652,12 +652,12 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.toml"
-hash = "2448f9943c3453983b4725ddcf1addfd2b1e7d6dbdab971f485811adb49076d3"
+hash = "4fc4157321b4db2ef3fc6a97893e291e6a993c071014c36f6342f26fb37f0203"
 metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.toml"
-hash = "47430f9ab9bdc1c4eb3801fb330729de727f7b9e6303f62874588f7a98452edc"
+hash = "6fd96f2e2e2ca20204ddf4f223a8b577fdcc41d47d2f55f6dba42bedf56df78f"
 metafile = true
 
 [[files]]
@@ -927,7 +927,7 @@ metafile = true
 
 [[files]]
 file = "mods/tetra-pak.toml"
-hash = "7ad15e028d30d334a0544fb0d7ca82dc4a6fdc500cedecae06143e3771f8712c"
+hash = "b4e33c2c21e6a6df3eebc1fbc878c59237eab424d1270b7388bffa63b8111af6"
 metafile = true
 
 [[files]]
