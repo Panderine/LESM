@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-third-person.toml"
-hash = "2ac0117185a29c53ecc529af94ea321a05271fe249432d2a1b4eb1b74f00aad5"
+hash = "9e5c5bcd17e34f7ce62e79e6ff8ec50af732b094e61489861c76af5f66baaef4"
 metafile = true
 
 [[files]]
@@ -562,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-hud-forge.toml"
-hash = "b92b84ff4bb020be1d33cc32fe74b0c71c86b34af699a8ad6c424576db4a9105"
+hash = "4dea47e4871ce47a54e537f28bf21a7c39884d2b2837c098248610d38acf957b"
 metafile = true
 
 [[files]]
@@ -727,7 +727,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.toml"
-hash = "62ab81773555354f0a774d1228eba67e63a05f3dd48a34967ac376ed13b1ddad"
+hash = "15b692581abe3c43be3c80c0c57446645c5c1779c9564581c977595a3de64813"
 metafile = true
 
 [[files]]
@@ -777,7 +777,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.toml"
-hash = "7fa163d9bc6a62393e7c5684a223cd0d5dafda4f6e3276e027b5078f25177e1b"
+hash = "cd0062ae44f788cf07488e4d92e6971e2ec454173f79f4985543527a7786006f"
 metafile = true
 
 [[files]]
