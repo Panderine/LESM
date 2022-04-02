@@ -1,0 +1,13 @@
+name = "Additional Lanterns"
+filename = "additionallanterns-1.0.0-mc1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3544/72/additionallanterns-1.0.0-mc1.18.jar"
+hash-format = "sha1"
+hash = "7870081a3d6ea087fe8d7d3bd43393bed2e4eba3"
+
+[update]
+[update.curseforge]
+file-id = 3544072
+project-id = 501590

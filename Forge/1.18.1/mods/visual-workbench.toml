@@ -1,0 +1,13 @@
+name = "Visual Workbench [Forge]"
+filename = "VisualWorkbench-v3.1.0-1.18.1-Forge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3570/53/VisualWorkbench-v3.1.0-1.18.1-Forge.jar"
+hash-format = "sha1"
+hash = "938938c1a3633bbd2c947301db16756948b71625"
+
+[update]
+[update.curseforge]
+file-id = 3570053
+project-id = 500273

@@ -1,6 +1,26 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/absent-by-design.toml"
+hash = "958d5dad8c4e91d5d678cb98fbc4a96d0dfbd63f5a0ed126f7acbd26b7053b37"
+metafile = true
+
+[[files]]
+file = "mods/additional-bars.toml"
+hash = "1d853c98d11ec3e61bebd3d88ed4eaeb222c825e340edbf999a0293e061dd458"
+metafile = true
+
+[[files]]
+file = "mods/additional-lanterns.toml"
+hash = "c5ce36083d863f625faab5b08d06449619cd7a914cf87c9296d6262fba178b2b"
+metafile = true
+
+[[files]]
+file = "mods/adorn-for-forge.toml"
+hash = "97446273257f4d86eed0413b1e80cd60cf4167e607a3efa165f6c8cee8304cd3"
+metafile = true
+
+[[files]]
 file = "mods/advancement-book.toml"
 hash = "bf24b6c76a0221d425319d5d3daf8bbda2d2385a34ea5c2c51dce9f5b0003277"
 metafile = true
@@ -47,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-forge.toml"
-hash = "2e7961920399e318860505d10069acd6cbd7e1e1f4a40172883af20805680015"
+hash = "81d567f66eeddf9e9680e9143b14fa051009e6288d0cf7ac6fee1bb62e6920a9"
 metafile = true
 
 [[files]]
@@ -108,6 +128,11 @@ metafile = true
 [[files]]
 file = "mods/better-fps-render-distance.toml"
 hash = "4e5ed69ca8f4df0e3b5c0c1a73e6b7e2bf6e38554473b8e55693aba0cd4dae10"
+metafile = true
+
+[[files]]
+file = "mods/better-third-person.toml"
+hash = "2ac0117185a29c53ecc529af94ea321a05271fe249432d2a1b4eb1b74f00aad5"
 metafile = true
 
 [[files]]
@@ -351,8 +376,18 @@ hash = "bbd5d1ec9891f959fe784d7e2a7a94093d0742a9081c6bf613f6fc579deed030"
 metafile = true
 
 [[files]]
+file = "mods/earth-mobs.toml"
+hash = "7968318bb193a7af16598e1298be3721595ae77a4d3f048dbf58bdb753783ccc"
+metafile = true
+
+[[files]]
 file = "mods/easy-piglins.toml"
 hash = "e8e13c7a1afaf0632f3189c961f4766acb92a99e49998e94dd6639a3ee4eea6f"
+metafile = true
+
+[[files]]
+file = "mods/easy-shulker-boxes-forge.toml"
+hash = "3dba1206d0d8c725b9b2f6dc48b78a1e0c695f7231db875a0fce50458f60e203"
 metafile = true
 
 [[files]]
@@ -526,6 +561,11 @@ hash = "7135fa927f765c10239216ee8f781b6f2c71b3bcf1b40b712ae352723b9b751f"
 metafile = true
 
 [[files]]
+file = "mods/inventory-hud-forge.toml"
+hash = "b92b84ff4bb020be1d33cc32fe74b0c71c86b34af699a8ad6c424576db4a9105"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons.toml"
 hash = "3d3f5971cf06a4a28e28bb59e6ea04781b26eaa06c6294eee131c23173834b25"
 metafile = true
@@ -551,6 +591,11 @@ hash = "0a3c14a8a50e1c065eeb8d58c079f8b17d1f417d00f8999798e41f6c43c9cfae"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-effect-descriptions-jeed.toml"
+hash = "060e51785ab500e60ffe22e42964f52964800690c7fee151d5566220e61c7176"
+metafile = true
+
+[[files]]
 file = "mods/just-enough-professions-jep.toml"
 hash = "20373cad6fa0a257a1a0cebbaff73d26978894e0bc81caec1d26d14eaac6fd8d"
 metafile = true
@@ -558,6 +603,11 @@ metafile = true
 [[files]]
 file = "mods/just-enough-resources-jer.toml"
 hash = "e4db843fecde3dca560115a8b2806fcd383e00d711f014fe173b95f095fc4050"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.toml"
+hash = "25e48dcb94836b5591348e9eda77c46487915c03b2c1e618daa388e298fe7998"
 metafile = true
 
 [[files]]
@@ -726,6 +776,11 @@ hash = "ccd3353a53ccea06de5efd5cad19b2e59e921eaa09a37b7b16e3d60ea3036d3c"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.toml"
+hash = "7fa163d9bc6a62393e7c5684a223cd0d5dafda4f6e3276e027b5078f25177e1b"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-crashes-forge.toml"
 hash = "8f7d460c87fb4e1e350f9079327bb9cf39dfd6b8ec27d0094839e6a0615777c4"
 metafile = true
@@ -761,6 +816,11 @@ hash = "5fa30d8abcaaab9360bd4add5c86a687e0d33ad29b99c34dac07b128196b5d32"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.toml"
+hash = "cf7c6bb5119cc3d43e311509895bfa0f40d994e90ffb67df298828db82621039"
+metafile = true
+
+[[files]]
 file = "mods/quark-oddities.toml"
 hash = "4c5ed699945bb4ba60a9afcbfb0ae074739663bbd18650d702aad763f7c7c5f0"
 metafile = true
@@ -777,7 +837,7 @@ metafile = true
 
 [[files]]
 file = "mods/redstone-gauges-and-switches.toml"
-hash = "97ef94676cf46e7b494160b6e146aa70cc2e10dc97d9f03e118e135e983deb2a"
+hash = "f4ee04be363612e4122b081c0cf041ec3dacd40ea4aa034b2be9575075fa0b77"
 metafile = true
 
 [[files]]
@@ -946,6 +1006,11 @@ hash = "82d48c208c20649d311a3d1a3f7d7435b4b9f95d42ce4a16427c389069ccbcbb"
 metafile = true
 
 [[files]]
+file = "mods/trading-post.toml"
+hash = "80d202c3dfe789a73e856e4cf4e5d3e41e65a2ac14bdbe712053ee2bf8b94f26"
+metafile = true
+
+[[files]]
 file = "mods/travelers-backpack.toml"
 hash = "62801a2c7b668bdeb9f711f729c509aa6660c6f727ed1ba10fcdbc97b5343b7b"
 metafile = true
@@ -968,6 +1033,11 @@ metafile = true
 [[files]]
 file = "mods/villager-names.toml"
 hash = "827123750d36431c2f1a46d128af31f7d21862f13776d1bfda58ecd7ff6681a3"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.toml"
+hash = "3c061068dd3dafac63e206ea835a347237a85d59f8b8dc2f2f9f82079f9ce941"
 metafile = true
 
 [[files]]
