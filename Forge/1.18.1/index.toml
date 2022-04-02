@@ -791,11 +791,6 @@ hash = "3ea73fef696dc2ac64156a0ce8b11718fd7869563d1c5492cadb627b902dd9c4"
 metafile = true
 
 [[files]]
-file = "mods/regrowth.toml"
-hash = "22e44220b7e45ae6f0be5e155d6df91d85a825f77139713818f93cd79f0c46c3"
-metafile = true
-
-[[files]]
 file = "mods/repurposed-structures.toml"
 hash = "7c8470171e8f52a28276e86df4cae39080eb8e1d4f8356300cf8607166806c6c"
 metafile = true
