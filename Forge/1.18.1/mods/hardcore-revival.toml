@@ -1,0 +1,13 @@
+name = "Hardcore Revival"
+filename = "hardcorerevival-forge-1.18-8.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3555/385/hardcorerevival-forge-1.18-8.0.0.jar"
+hash-format = "sha1"
+hash = "39d2e5485d7a3b92fbd6747d0bf4004f389f57ac"
+
+[update]
+[update.curseforge]
+file-id = 3555385
+project-id = 274036

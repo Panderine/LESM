@@ -1,0 +1,13 @@
+name = "Functional Storage"
+filename = "functionalstorage-1.18.1-0.0.10.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3624/418/functionalstorage-1.18.1-0.0.10.jar"
+hash-format = "sha1"
+hash = "5749b8d871bce37d35d10952efa2e74bc044d0de"
+
+[update]
+[update.curseforge]
+file-id = 3624418
+project-id = 556861

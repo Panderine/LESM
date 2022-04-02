@@ -486,6 +486,11 @@ hash = "4770971fa8c4bbb3e1f6abc1595aed54bdefd9c9c76d674b605bc136ea17e00f"
 metafile = true
 
 [[files]]
+file = "mods/functional-storage.toml"
+hash = "73aa4bfafb1702703bccfe4921c7d21d9aaa37bbdad3671acae5dc15f85092b2"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.toml"
 hash = "a236f9bcb6018b78e6af5998c6b3003ad11f49e9b89b9706f5e5119c888f6970"
 metafile = true
@@ -508,6 +513,11 @@ metafile = true
 [[files]]
 file = "mods/guard-villagers.toml"
 hash = "cf4e82a7d4f0093f6587a8cc7905c465c0f5851168d3d4411aed72bc0b2daf9e"
+metafile = true
+
+[[files]]
+file = "mods/hardcore-revival.toml"
+hash = "2f0cefb0ade54a0c2916841105edcaff01090610fee4bf73f988b60deb895236"
 metafile = true
 
 [[files]]
@@ -993,6 +1003,11 @@ metafile = true
 [[files]]
 file = "mods/trading-post.toml"
 hash = "80d202c3dfe789a73e856e4cf4e5d3e41e65a2ac14bdbe712053ee2bf8b94f26"
+metafile = true
+
+[[files]]
+file = "mods/trashslot.toml"
+hash = "abd9a145a44d2832b5e373f22635e4e23d5b4dc67df55f0110580882a2b675b0"
 metafile = true
 
 [[files]]
