@@ -621,6 +621,11 @@ hash = "7135fa927f765c10239216ee8f781b6f2c71b3bcf1b40b712ae352723b9b751f"
 metafile = true
 
 [[files]]
+file = "mods/inventory-hud-forge.toml"
+hash = "b92b84ff4bb020be1d33cc32fe74b0c71c86b34af699a8ad6c424576db4a9105"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons.toml"
 hash = "3d3f5971cf06a4a28e28bb59e6ea04781b26eaa06c6294eee131c23173834b25"
 metafile = true
