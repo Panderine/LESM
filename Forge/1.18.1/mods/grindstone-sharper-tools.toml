@@ -1,0 +1,13 @@
+name = "Grindstone Sharper Tools (Forge)"
+filename = "grindstonesharpertools_1.18.1-1.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3561/524/grindstonesharpertools_1.18.1-1.7.jar"
+hash-format = "sha1"
+hash = "78ab987a8431f4467c6f84500d94bce636731b2c"
+
+[update]
+[update.curseforge]
+file-id = 3561524
+project-id = 347346

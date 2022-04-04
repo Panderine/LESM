@@ -1,0 +1,13 @@
+name = "Tool Stats"
+filename = "ToolStats-Forge-1.18.1-8.0.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3668/168/ToolStats-Forge-1.18.1-8.0.6.jar"
+hash-format = "sha1"
+hash = "45718392a2d4c665474dfc5ba712d7c40c7422f5"
+
+[update]
+[update.curseforge]
+file-id = 3668168
+project-id = 377109

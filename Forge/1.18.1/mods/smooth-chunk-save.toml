@@ -1,0 +1,13 @@
+name = "Smooth Chunk Save"
+filename = "smoothchunk-1.18.1-1.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3686/468/smoothchunk-1.18.1-1.6.jar"
+hash-format = "sha1"
+hash = "37f84570015338d8c16d94f306bd9df117a2a314"
+
+[update]
+[update.curseforge]
+file-id = 3686468
+project-id = 582327

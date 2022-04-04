@@ -1,0 +1,13 @@
+name = "XP Tome"
+filename = "xptome-1.18.1-2.1.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3649/75/xptome-1.18.1-2.1.4.jar"
+hash-format = "sha1"
+hash = "d89ab03a9e2a7c006421e2826be7293263d76bc8"
+
+[update]
+[update.curseforge]
+file-id = 3649075
+project-id = 344787
