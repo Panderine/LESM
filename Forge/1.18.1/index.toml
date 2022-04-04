@@ -651,11 +651,6 @@ hash = "68212acd60c6037b8c5cb529d622d7dd752b5fda00b8681f5619dacb36665799"
 metafile = true
 
 [[files]]
-file = "mods/just-enough-descriptions-jed.toml"
-hash = "cc75fc120c76be7b6426a40ac8936691d36f7d47c4971b2d7ee14d099f61dd16"
-metafile = true
-
-[[files]]
 file = "mods/just-enough-effect-descriptions-jeed.toml"
 hash = "060e51785ab500e60ffe22e42964f52964800690c7fee151d5566220e61c7176"
 metafile = true
