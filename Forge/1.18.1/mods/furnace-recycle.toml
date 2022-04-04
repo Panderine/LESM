@@ -1,0 +1,13 @@
+name = "Furnace Recycle (Forge)"
+filename = "furnacerecycle_1.18.1-1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3561/527/furnacerecycle_1.18.1-1.1.jar"
+hash-format = "sha1"
+hash = "24f186e36b9e15c4658e4e0ec131be0476e55813"
+
+[update]
+[update.curseforge]
+file-id = 3561527
+project-id = 551140

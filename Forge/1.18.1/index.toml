@@ -6,6 +6,11 @@ hash = "958d5dad8c4e91d5d678cb98fbc4a96d0dfbd63f5a0ed126f7acbd26b7053b37"
 metafile = true
 
 [[files]]
+file = "mods/actually-compatible.toml"
+hash = "39fbf9734a4447162285266593781f1443fe761e489ed059b5252d660184557e"
+metafile = true
+
+[[files]]
 file = "mods/additional-bars.toml"
 hash = "1d853c98d11ec3e61bebd3d88ed4eaeb222c825e340edbf999a0293e061dd458"
 metafile = true
@@ -108,6 +113,11 @@ metafile = true
 [[files]]
 file = "mods/awesome-dungeon-the-end-forge.toml"
 hash = "ec1a4c2d52dfb7e027cececa9b852da757088b0d1da69fcad314cea0ed3ed85a"
+metafile = true
+
+[[files]]
+file = "mods/bag-of-holding-forge.toml"
+hash = "7af56a40676296b54bcd0d0acee0a9fb12f8d2aea0badba4180fbbe38715e2e2"
 metafile = true
 
 [[files]]
@@ -331,6 +341,11 @@ hash = "e5145f373c74d0bd3b10df6c73750c3b7581fb973f0fc0230151939ab6c7d156"
 metafile = true
 
 [[files]]
+file = "mods/curious-lights.toml"
+hash = "54cbea46a77812289ef34ae5be2e8e8d2d83d20dfe5495414214e00b585ea91d"
+metafile = true
+
+[[files]]
 file = "mods/curious-shulker-boxes.toml"
 hash = "a1fc23857ceaaaff9418954c4ecd2caec4dab965601cb02cdecae2736a57156e"
 metafile = true
@@ -378,6 +393,11 @@ metafile = true
 [[files]]
 file = "mods/dungeon-crawl.toml"
 hash = "bbd5d1ec9891f959fe784d7e2a7a94093d0742a9081c6bf613f6fc579deed030"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-lights.toml"
+hash = "ae704812a7dfe0488f5c97d1b6af3a89f8a0560cb7a5e6720d02562e8f498b20"
 metafile = true
 
 [[files]]
@@ -441,6 +461,11 @@ hash = "960ca5292a309e66b44fccaae56d4c222690be139fafd34a9c211ebadfe25d45"
 metafile = true
 
 [[files]]
+file = "mods/equipment-compare.toml"
+hash = "601ec3d66602d1b4356a162ef8ec8905b3b4f735cbf8a18b43c9b065ec2f4102"
+metafile = true
+
+[[files]]
 file = "mods/expanded-storage-forge.toml"
 hash = "cd5e7dd3310b04cdbd9b2d077cf14e202d429f6fd0e0d80ad281a4d6d9e167f4"
 metafile = true
@@ -453,6 +478,11 @@ metafile = true
 [[files]]
 file = "mods/extreme-reactors.toml"
 hash = "9366e3910551a07ba8ee76e6a2ad1f4400c68e01e23ae2cd3379e740f5868033"
+metafile = true
+
+[[files]]
+file = "mods/extreme-sound-muffler.toml"
+hash = "31c39c115bd72db0e5638893c424632743a7da2111c946040cb21feae0ed1ad2"
 metafile = true
 
 [[files]]
@@ -503,6 +533,11 @@ metafile = true
 [[files]]
 file = "mods/functional-storage.toml"
 hash = "73aa4bfafb1702703bccfe4921c7d21d9aaa37bbdad3671acae5dc15f85092b2"
+metafile = true
+
+[[files]]
+file = "mods/furnace-recycle.toml"
+hash = "a4cf05b1f45626ef9895b8f6c790b8c9e7b3895c3060a7d8b1c38e85e7979b24"
 metafile = true
 
 [[files]]
@@ -616,6 +651,11 @@ hash = "68212acd60c6037b8c5cb529d622d7dd752b5fda00b8681f5619dacb36665799"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-descriptions-jed.toml"
+hash = "cc75fc120c76be7b6426a40ac8936691d36f7d47c4971b2d7ee14d099f61dd16"
+metafile = true
+
+[[files]]
 file = "mods/just-enough-effect-descriptions-jeed.toml"
 hash = "060e51785ab500e60ffe22e42964f52964800690c7fee151d5566220e61c7176"
 metafile = true
@@ -643,6 +683,16 @@ metafile = true
 [[files]]
 file = "mods/ksyxis.toml"
 hash = "c58cacbf3ca69af9fdc77e62056864f8436cb2e24c30bee62e5c2a88bbd5cb7a"
+metafile = true
+
+[[files]]
+file = "mods/lava-clear-view.toml"
+hash = "a420a00124bae06b3447097933e20da656e8c5a1d8e8daf3536ccae1bae5f252"
+metafile = true
+
+[[files]]
+file = "mods/lava-walker.toml"
+hash = "909c4e5f3f2ca0c7727f4c038d735c24112fa42c4908e9f1812d42be449070b3"
 metafile = true
 
 [[files]]
@@ -763,6 +813,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.toml"
 hash = "15b692581abe3c43be3c80c0c57446645c5c1779c9564581c977595a3de64813"
+metafile = true
+
+[[files]]
+file = "mods/multi-mine.toml"
+hash = "9bc7f522a8ecc616bb3f37dbd7051b20d0202e171084ab91479444345c1d994c"
 metafile = true
 
 [[files]]

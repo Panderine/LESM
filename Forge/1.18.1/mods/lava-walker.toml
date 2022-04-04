@@ -1,0 +1,13 @@
+name = "Lava Walker"
+filename = "lava_walker-1.18.1-0.6.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3697/356/lava_walker-1.18.1-0.6.3.jar"
+hash-format = "sha1"
+hash = "aa9d96f5e5a5739e028438fd4d8a6f80cc38d4e7"
+
+[update]
+[update.curseforge]
+file-id = 3697356
+project-id = 580033
