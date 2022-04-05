@@ -401,11 +401,6 @@ hash = "bbd5d1ec9891f959fe784d7e2a7a94093d0742a9081c6bf613f6fc579deed030"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-lights.toml"
-hash = "9b4c703610e2397458206b6044b278bc117475c8a3337da5bdc8b138ac3387a6"
-metafile = true
-
-[[files]]
 file = "mods/earth-mobs.toml"
 hash = "7968318bb193a7af16598e1298be3721595ae77a4d3f048dbf58bdb753783ccc"
 metafile = true
