@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/art-of-forging-a-tetra-addon.toml"
-hash = "9c127e9f0bcf5bd66e1157bf608e9757834beadad09ce69af894a5b347a7162f"
+hash = "b83d0dd6aedd401269dd104b9cfad194771290c6f229b6f199893a4d49bd71b7"
 metafile = true
 
 [[files]]
@@ -138,6 +138,11 @@ metafile = true
 [[files]]
 file = "mods/better-fps-render-distance.toml"
 hash = "4e5ed69ca8f4df0e3b5c0c1a73e6b7e2bf6e38554473b8e55693aba0cd4dae10"
+metafile = true
+
+[[files]]
+file = "mods/better-than-mending.toml"
+hash = "7a68bed680333b9f66717d9270e7f3b2a51be1f21fe465142a537a9a0db4c6fd"
 metafile = true
 
 [[files]]
@@ -226,11 +231,6 @@ hash = "89ce240e47591e1bb1dd4537c995d0fb73b2bcbc082fe163e5ed31d422deda4f"
 metafile = true
 
 [[files]]
-file = "mods/clumps.toml"
-hash = "20551dee62f354cf190d5ee786015148078fb6604c13d7e630682412838dd252"
-metafile = true
-
-[[files]]
 file = "mods/collective.toml"
 hash = "da6fad6dd9a73f02ea5d82bc3c69a7ce113f432bd3ee17fa0ca62c2d9390adac"
 metafile = true
@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-alloyed.toml"
-hash = "120fcc87bf349ab388775e4dddc5ea19df54d6f04bc4687e95e8056008dfb123"
+hash = "cab0bc96e683925f1c458a3ed24ed716cd61f5bc48bc89bbbf7617f906835223"
 metafile = true
 
 [[files]]
@@ -361,6 +361,11 @@ hash = "1ff7aeb459140521e324f8eb07e0cd1a69f9864d2c69e49a76209d5ecfa386fa"
 metafile = true
 
 [[files]]
+file = "mods/dimensional-dungeons.toml"
+hash = "aa1cbd2acc324a2cd3c3656ab3063a57a08e662cfe9fd962ec5e5618156c5a39"
+metafile = true
+
+[[files]]
 file = "mods/dimensional-pockets-ii.toml"
 hash = "4b854d640b8dc33e8cef454b2335fd793be59702d5005dedef0be06713135577"
 metafile = true
@@ -397,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-lights.toml"
-hash = "ae704812a7dfe0488f5c97d1b6af3a89f8a0560cb7a5e6720d02562e8f498b20"
+hash = "9b4c703610e2397458206b6044b278bc117475c8a3337da5bdc8b138ac3387a6"
 metafile = true
 
 [[files]]
@@ -866,6 +871,11 @@ hash = "8f7d460c87fb4e1e350f9079327bb9cf39dfd6b8ec27d0094839e6a0615777c4"
 metafile = true
 
 [[files]]
+file = "mods/overpowered-mending.toml"
+hash = "78af6a2fd4d8c70e0339ea7752af24f3c47d4a3a3ac772ae1a1caa2067e823b3"
+metafile = true
+
+[[files]]
 file = "mods/pane-in-the-glass.toml"
 hash = "6bb76a553fd23872f13e73b38a58f4854ec73107328ff16ea822f5f0a2e0e990"
 metafile = true
@@ -892,7 +902,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.toml"
-hash = "a5d299d46af1c28fb23f06f6be926f0995094edd38626ba1c46557d62889f2eb"
+hash = "f89664f02fe725ba2e53bf7ee5d286f698411562e9f420b61f06da8c5b525936"
 metafile = true
 
 [[files]]
@@ -933,6 +943,11 @@ metafile = true
 [[files]]
 file = "mods/repurposed-structures.toml"
 hash = "7c8470171e8f52a28276e86df4cae39080eb8e1d4f8356300cf8607166806c6c"
+metafile = true
+
+[[files]]
+file = "mods/responsive-shields.toml"
+hash = "bcf9f1e02756d2f31a38689544170c11166bd054a144897a6b235f333f074612"
 metafile = true
 
 [[files]]
@@ -1116,6 +1131,11 @@ hash = "62801a2c7b668bdeb9f711f729c509aa6660c6f727ed1ba10fcdbc97b5343b7b"
 metafile = true
 
 [[files]]
+file = "mods/tsintegrations.toml"
+hash = "7a54b622877e16974c68113e7cb9e8f6e240b836514862ba7fb9687b7df010dd"
+metafile = true
+
+[[files]]
 file = "mods/untamedwilds.toml"
 hash = "0cf9a952ee6a3e8fd0519d74b200e0d2ae8e186866c909d26b9efe659bdf2562"
 metafile = true
@@ -1163,6 +1183,11 @@ metafile = true
 [[files]]
 file = "mods/wiles-collection.toml"
 hash = "b1794f4c69da83843a32da4d505d7aeeb952368fea20b4608841ca594125c1c7"
+metafile = true
+
+[[files]]
+file = "mods/wormhole-portals.toml"
+hash = "0182c8e17bf991c2ba68ea80b6b79fadf8ee8bfaaad29f703845c668056115b0"
 metafile = true
 
 [[files]]

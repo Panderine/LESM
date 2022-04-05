@@ -1,0 +1,13 @@
+name = "OverpoweredMending (Forge&Fabric)"
+filename = "OverpoweredMending-1.18.1-2.3.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3565/224/OverpoweredMending-1.18.1-2.3.1.jar"
+hash-format = "sha1"
+hash = "68b19c432c570fdfd55ca22e0d9519ad3c126323"
+
+[update]
+[update.curseforge]
+file-id = 3565224
+project-id = 344973

@@ -1,0 +1,13 @@
+name = "Responsive Shields"
+filename = "responsiveshields-1.1-mc1.18.x.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3597/27/responsiveshields-1.1-mc1.18.x.jar"
+hash-format = "sha1"
+hash = "4a745b87c801fc9bf13b2e0811a971fde2b9dd95"
+
+[update]
+[update.curseforge]
+file-id = 3597027
+project-id = 557556
