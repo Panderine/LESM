@@ -1,13 +1,13 @@
 name = "Awesome Dungeon Nether edition - Forge"
-filename = "AwesomeDungeonNether-Forge-1.18.1-1.0.0.jar"
+filename = "AwesomeDungeonNether-Forge-1.18.1-1.0.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3630/974/AwesomeDungeonNether-Forge-1.18.1-1.0.0.jar"
+url = "https://edge.forgecdn.net/files/3742/152/AwesomeDungeonNether-Forge-1.18.1-1.0.1.jar"
 hash-format = "sha1"
-hash = "10e9e4dc528d221c7fd2f7321db5d938352596c8"
+hash = "103eb0c4944cea178a5f09f4f1bf3a7a493c4bdb"
 
 [update]
 [update.curseforge]
-file-id = 3630974
+file-id = 3742152
 project-id = 566649

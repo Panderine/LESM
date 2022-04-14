@@ -1,13 +1,13 @@
 name = "DrawerFPS"
-filename = "drawerfps-1.18.1-2.2.jar"
+filename = "drawerfps-1.18.2-2.3.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3642/321/drawerfps-1.18.1-2.2.jar"
+url = "https://edge.forgecdn.net/files/3741/591/drawerfps-1.18.2-2.3.jar"
 hash-format = "sha1"
-hash = "feedf53556be2299a17a1cb31d301313b322c1f0"
+hash = "cc1635c886d3e924b7b3f249e7659434a57338b7"
 
 [update]
 [update.curseforge]
-file-id = 3642321
+file-id = 3741591
 project-id = 480816
