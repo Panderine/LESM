@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-forge.toml"
-hash = "c32a3563c0b5d566b0d0157b042fd6344375ad920fd2341a3242d7b41c8e0922"
+hash = "456c9709e394d76f26b89cd9358421894122a8a47ee7936e9e67ceb293a7f814"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.toml"
-hash = "016727bc65e5bafd7705032a4ca32ba37c9a866ec11d096c46899e2ecb1779a8"
+hash = "801e78d8ec72495c943a1edb7afa7e2ed08be26a2999647b285158c870b2311b"
 metafile = true
 
 [[files]]
@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/cyclops-core.toml"
-hash = "bab82bb60edcee88163eb41e0f25a3d29d1dc326c55e769958f9a4ee8c3822d2"
+hash = "5ab23141b3bdcaefbea8aa72df511764a3e327917f2c7eff1a35eee40578e7f7"
 metafile = true
 
 [[files]]
@@ -592,12 +592,12 @@ metafile = true
 
 [[files]]
 file = "mods/integrated-crafting.toml"
-hash = "a0fa35338ea0e94c84c0efa0298980381d5c193d5093fbfe1a2575478fdd81e4"
+hash = "0cb9f0a42a2b233791f8494cbfc84ab30b29a245e2dddaaeb73adf393325a8d2"
 metafile = true
 
 [[files]]
 file = "mods/integrated-dynamics.toml"
-hash = "b05c3ba91518d8aa0c3db6ffe6ee95c7b051244745365279065595653f210e58"
+hash = "060529fc546e78945b63cc80f1d4017e94f9cffe1d5bb43352dd3c78690b83ca"
 metafile = true
 
 [[files]]
@@ -647,7 +647,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.toml"
-hash = "269450c6cf3152102ff396530f088a07d6c644e1742ebca3e11994d7a3afec2c"
+hash = "1c3555712d6e5ebab064b9e2f6fe0d99180168fa85a40384ce62f66d2ebfdf00"
 metafile = true
 
 [[files]]
@@ -717,7 +717,7 @@ metafile = true
 
 [[files]]
 file = "mods/login-protection.toml"
-hash = "838972cec22096d8960a114d1b826f32b6861861e4e1150c67c61e602fcda791"
+hash = "25b15072dcf9403e660c198789da2f891289df22e4f12af2cb7443571ccc7510"
 metafile = true
 
 [[files]]
@@ -737,7 +737,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-fences-and-walls.toml"
-hash = "89c23915efd5142e59a0709b5f67f2249d275f3fd3b08f5f86e9b27e5872db9e"
+hash = "23d5b16fa88bebf2b57a80782448229a36ca3d30bfa0cc0c1df05b7e2d10d168"
 metafile = true
 
 [[files]]
@@ -777,7 +777,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.toml"
-hash = "cf83179f3abb3e1476af46bc76f8d57ccd7a56738b055b9ccf340918d35c34e6"
+hash = "fb7efdaaa4916201c27c132437de7f140723cf8a8482e53a9bd7a539cf017b0d"
 metafile = true
 
 [[files]]
@@ -991,6 +991,11 @@ hash = "182bf4557c7c362f2d98a29a837aa07e9ecc943c8f1cbd26a1d02d9a344e0b6e"
 metafile = true
 
 [[files]]
+file = "mods/selene.toml"
+hash = "5c0ac5e5aa2648abb2efddefcd10780947e2debb801aa5c131e2a2ba7fdf410e"
+metafile = true
+
+[[files]]
 file = "mods/shetiphiancore.toml"
 hash = "8a3e3670b0ae0bf463ed16e02107257c6c700faccc67db87e470e56077f9064e"
 metafile = true
@@ -1047,7 +1052,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.toml"
-hash = "6aa51853c03805e6bd0a03303da41d56efe06a001369d24f6cc7e0a125c1190d"
+hash = "e126007cf20bffc4b48c0e6ca3956a1d9c63ba50b58e09f2f6b7dda8722047f0"
 metafile = true
 
 [[files]]
@@ -1058,6 +1063,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.toml"
 hash = "d2781aab3e51ae6b3677a913881d8fe8e0571569d31bcabce94da13e7c902c8d"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.toml"
+hash = "0b941cae7ce120cd1d09109a38b418a7ac3b5c90cea470848a8a9ee7c51bf504"
 metafile = true
 
 [[files]]
