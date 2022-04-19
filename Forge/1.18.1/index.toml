@@ -557,7 +557,7 @@ metafile = true
 
 [[files]]
 file = "mods/grimoire-of-tetra.toml"
-hash = "25474062e16a203831409939b8dd3bc4cc7bfdf8451b4bab7665e00e1fe9995c"
+hash = "17e746d109c5449dba6d3454e1cd50d0f19bfa1f00c1c3f953044bd800574da0"
 metafile = true
 
 [[files]]
@@ -777,7 +777,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.toml"
-hash = "fb7efdaaa4916201c27c132437de7f140723cf8a8482e53a9bd7a539cf017b0d"
+hash = "fb0a946c7ca820c1abfbcf51b00f85e9f3377cace9b265290d56da3a7c5fc717"
 metafile = true
 
 [[files]]
