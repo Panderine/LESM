@@ -246,6 +246,11 @@ hash = "d218fe3f4df91fa8c616e040bbc1e9a6ca8cfcc7aa17e6f633bf40b2f05b75ac"
 metafile = true
 
 [[files]]
+file = "mods/colytra.toml"
+hash = "260f367a0bcaef5bf8460c7de930a5ecf938212543dc85ca674a09eae95e1ebe"
+metafile = true
+
+[[files]]
 file = "mods/comforts.toml"
 hash = "d280f9a7158e990425219ef5441cc6c0e7345e3aba471de1bca8c5c32f9fafa4"
 metafile = true
