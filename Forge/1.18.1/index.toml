@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/additional-lanterns.toml"
-hash = "c5ce36083d863f625faab5b08d06449619cd7a914cf87c9296d6262fba178b2b"
+hash = "8cd7e07823f4dd429fe331d9661e3f30266f69f70d80293f4b8bd8e9c658b936"
 metafile = true
 
 [[files]]
@@ -762,7 +762,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-roofs.toml"
-hash = "f03e9c257acb938870b47ef0f9b69c47ccc0f7ca3f2e9d9edca338e7351be012"
+hash = "486ce4f2ca3c2d15cbeee68646c204ed98c3e2947c4b4fd537a5040b176964dc"
 metafile = true
 
 [[files]]
