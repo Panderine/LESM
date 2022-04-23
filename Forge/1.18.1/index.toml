@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-forge.toml"
-hash = "456c9709e394d76f26b89cd9358421894122a8a47ee7936e9e67ceb293a7f814"
+hash = "76670bfa22c546b19583f358b6b24d3756b7842e913073ada1c4fe04d3121ccc"
 metafile = true
 
 [[files]]
@@ -322,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.toml"
-hash = "e4d5ea9a05d11dcbfd435535f676fc23e4b58a36d0771e8b7559b1e3b1d9f27d"
+hash = "59e3bb5dfbea6a4c174e511f4502803fa247acc4d3d6a17f28e87cd8b62c9edb"
 metafile = true
 
 [[files]]
@@ -387,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/disenchantment-edit-table.toml"
-hash = "4232e376f46ac61f917694d03ef2673b72734b7f741145a4af24a12fd42726e5"
+hash = "f6e549ba12e992237cca71c388c7a85d6a8151bc9c7febc9ce5f045cb6c9dde0"
 metafile = true
 
 [[files]]
@@ -792,7 +792,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.toml"
-hash = "fb0a946c7ca820c1abfbcf51b00f85e9f3377cace9b265290d56da3a7c5fc717"
+hash = "52942cf5585bb75d128da2605c43a9b1aaba66d6e2f9fe0ef4d0c47aa6920f89"
 metafile = true
 
 [[files]]

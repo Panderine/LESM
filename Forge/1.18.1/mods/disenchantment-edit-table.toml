@@ -1,13 +1,13 @@
 name = "Disenchantment Edit Table"
-filename = "DisenchantmentEditTable-1.18.1-1.0.6.jar"
+filename = "DisenchantmentEditTable-1.18.1-1.0.7.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3686/455/DisenchantmentEditTable-1.18.1-1.0.6.jar"
+url = "https://edge.forgecdn.net/files/3763/438/DisenchantmentEditTable-1.18.1-1.0.7.jar"
 hash-format = "sha1"
-hash = "f028d605f063a98001c25a496e0e39cd6f10b967"
+hash = "1c3d217b27d404d2b404cda7947720575d47a3dc"
 
 [update]
 [update.curseforge]
-file-id = 3686455
+file-id = 3763438
 project-id = 452857
