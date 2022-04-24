@@ -652,7 +652,7 @@ metafile = true
 
 [[files]]
 file = "mods/jaopca.toml"
-hash = "3f00f0047d674489e8d8a27937ddb63b458da64ad0259542d8c1dbf345206133"
+hash = "e823db75b5af088c422709798e91039d1afa73791020bf0546975374fb2d4988"
 metafile = true
 
 [[files]]
@@ -1042,7 +1042,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.toml"
-hash = "7d5c6f0637820514627c124c00477f8b3c1eb95b5891dbaf16abcdc2e1174e77"
+hash = "4729b80331cac7a345b4500d91036594087123c4696064f0112f063d1479f3c1"
 metafile = true
 
 [[files]]
