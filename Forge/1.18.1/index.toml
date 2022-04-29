@@ -737,7 +737,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.toml"
-hash = "c9ca9290ec92ba5e23004a8185fcc75aac52ff5d68329a4196b3c5acf22bb3c1"
+hash = "b1e526efc9bdd7c9d44547c596df7eaa10f2d6c64beb59af4181454fedd43924"
 metafile = true
 
 [[files]]
@@ -792,7 +792,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.toml"
-hash = "52942cf5585bb75d128da2605c43a9b1aaba66d6e2f9fe0ef4d0c47aa6920f89"
+hash = "f0b24dd2b72a00d732f63fba9b1cc1abbaa6010279a814a130dccf6bcbba3642"
 metafile = true
 
 [[files]]
