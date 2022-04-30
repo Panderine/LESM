@@ -1,0 +1,13 @@
+name = "Unearthed"
+filename = "Unearthed-forge-1.18.1-2.2.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3652/567/Unearthed-forge-1.18.1-2.2.0.jar"
+hash-format = "sha1"
+hash = "874b1f2fd705c6e5d4a76b264b1d1baaea8f8ec7"
+
+[update]
+[update.curseforge]
+file-id = 3652567
+project-id = 406825

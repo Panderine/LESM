@@ -1,13 +1,13 @@
 name = "SuperMartijn642's Core Lib"
-filename = "supermartijn642corelib-1.0.17-forge-mc1.18.jar"
+filename = "supermartijn642corelib-1.0.18-forge-mc1.18.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3773/730/supermartijn642corelib-1.0.17-forge-mc1.18.jar"
+url = "https://edge.forgecdn.net/files/3773/952/supermartijn642corelib-1.0.18-forge-mc1.18.jar"
 hash-format = "sha1"
-hash = "f46889c61f02b6d4844b5045c9a0276a566d85fb"
+hash = "a48f60b4f8fdef9e531d017f3665638b109c0dcf"
 
 [update]
 [update.curseforge]
-file-id = 3773730
+file-id = 3773952
 project-id = 454372

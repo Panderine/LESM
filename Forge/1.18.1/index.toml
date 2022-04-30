@@ -792,7 +792,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.toml"
-hash = "f0b24dd2b72a00d732f63fba9b1cc1abbaa6010279a814a130dccf6bcbba3642"
+hash = "8fe4fba17e771a5c81ec4bfaeeed5c97ef87f3e96dc36e5cb734a1cf8c049441"
 metafile = true
 
 [[files]]
@@ -813,6 +813,11 @@ metafile = true
 [[files]]
 file = "mods/more-villagers.toml"
 hash = "dd5ae5f3e57cda02170d039b68ab968991ffd9b1176d24f951880835fdf47cab"
+metafile = true
+
+[[files]]
+file = "mods/mores-forge.toml"
+hash = "75367a71a0d923eaabb9e03156e5332c21f9f18c36a0388cbbe01dad931c10bb"
 metafile = true
 
 [[files]]
@@ -1077,7 +1082,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.toml"
-hash = "e11e35024635aec2a4d64b12fbaf92d964d544d8ffb002a93a36f59863649b20"
+hash = "79bc27ed4ec1f966e9266eb86e64d4da83d3e30f4c259a5dd378d0574442f5d2"
 metafile = true
 
 [[files]]
@@ -1153,6 +1158,11 @@ metafile = true
 [[files]]
 file = "mods/tsintegrations.toml"
 hash = "7a54b622877e16974c68113e7cb9e8f6e240b836514862ba7fb9687b7df010dd"
+metafile = true
+
+[[files]]
+file = "mods/unearthed.toml"
+hash = "55c6a725f95183d853d45dc66b64b0863eac9f1dee90b4914284e9cecaaeeb43"
 metafile = true
 
 [[files]]
