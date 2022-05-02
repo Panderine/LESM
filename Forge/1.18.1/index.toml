@@ -931,6 +931,11 @@ hash = "5fa30d8abcaaab9360bd4add5c86a687e0d33ad29b99c34dac07b128196b5d32"
 metafile = true
 
 [[files]]
+file = "mods/pretty-beaches.toml"
+hash = "0bf0ea1ce78d870604ae75dd30fa106caeecbcc27444251286ffc30d12bc5f67"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.toml"
 hash = "cf7c6bb5119cc3d43e311509895bfa0f40d994e90ffb67df298828db82621039"
 metafile = true
