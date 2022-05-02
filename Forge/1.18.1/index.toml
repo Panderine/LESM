@@ -467,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/entangled.toml"
-hash = "2e14d319adafaa134c14c9c762c417ad2a69549639e9a800a68b27b4bf30b1b0"
+hash = "70e5de1a958e09a032c3f0012c353f778c202f69d58dfcfa2bbee44f1bdc2719"
 metafile = true
 
 [[files]]
@@ -702,7 +702,7 @@ metafile = true
 
 [[files]]
 file = "mods/lava-walker.toml"
-hash = "909c4e5f3f2ca0c7727f4c038d735c24112fa42c4908e9f1812d42be449070b3"
+hash = "8b6e56015eaa37b7cf7d388155f092262a71af124c6cdca554cef91d94dcdaaf"
 metafile = true
 
 [[files]]
@@ -792,7 +792,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.toml"
-hash = "8fe4fba17e771a5c81ec4bfaeeed5c97ef87f3e96dc36e5cb734a1cf8c049441"
+hash = "577b16be1babad27cab994b27fbbf78b5162c9b084ef685c07b1968362c893fa"
 metafile = true
 
 [[files]]
@@ -883,6 +883,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-crashes-forge.toml"
 hash = "8f7d460c87fb4e1e350f9079327bb9cf39dfd6b8ec27d0094839e6a0615777c4"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-biomes-youll-go.toml"
+hash = "c6a9b3deb42cf52b3478bc5c720a9f32fd6bdd785987b859ddab246d623b8453"
 metafile = true
 
 [[files]]
