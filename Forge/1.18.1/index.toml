@@ -146,11 +146,6 @@ hash = "7a68bed680333b9f66717d9270e7f3b2a51be1f21fe465142a537a9a0db4c6fd"
 metafile = true
 
 [[files]]
-file = "mods/biomes-o-plenty.toml"
-hash = "2985f3a9dba72b0c9835ac7c488f0f7a5cba9fa8901c9cfe231d7ded8ea5ac74"
-metafile = true
-
-[[files]]
 file = "mods/blockui.toml"
 hash = "adf4f9988602ae2789800d4f434022a41f28a4096b31849aad52d855d80938a3"
 metafile = true
@@ -263,11 +258,6 @@ metafile = true
 [[files]]
 file = "mods/compact-machines.toml"
 hash = "71e992b800485eef4a87165db9cc1eeb1043668b2a77ef434ba37516971c40b5"
-metafile = true
-
-[[files]]
-file = "mods/compat-o-plenty.toml"
-hash = "9e9524deabfe110f8e9f9456a76b6ed9c9f0ea6441f1d2e21852ba8545968975"
 metafile = true
 
 [[files]]
@@ -792,7 +782,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.toml"
-hash = "577b16be1babad27cab994b27fbbf78b5162c9b084ef685c07b1968362c893fa"
+hash = "0cb58c8ff8de30ddbe7a14f1c6daa87f8098c3b84f5ef20d7749063a93682c87"
 metafile = true
 
 [[files]]
@@ -883,11 +873,6 @@ metafile = true
 [[files]]
 file = "mods/not-enough-crashes-forge.toml"
 hash = "8f7d460c87fb4e1e350f9079327bb9cf39dfd6b8ec27d0094839e6a0615777c4"
-metafile = true
-
-[[files]]
-file = "mods/oh-the-biomes-youll-go.toml"
-hash = "c6a9b3deb42cf52b3478bc5c720a9f32fd6bdd785987b859ddab246d623b8453"
 metafile = true
 
 [[files]]
@@ -1036,11 +1021,6 @@ hash = "348bbfeddf9e49fde1f2ff54b7d8614c78688a9e0ccf5ba57f6b409a779f6027"
 metafile = true
 
 [[files]]
-file = "mods/sky-villages-forge.toml"
-hash = "2113c9ebbbee69a35d43014e034a91e578438e275d556af054874a86ab29d43a"
-metafile = true
-
-[[files]]
 file = "mods/smooth-chunk-save.toml"
 hash = "a6b2dca7491bcd828ba834a783914c4fcf5f722eb239fd60a64567b9a15bb3c4"
 metafile = true
@@ -1103,11 +1083,6 @@ metafile = true
 [[files]]
 file = "mods/tax-free-levels.toml"
 hash = "f4288e88dfc6371b5a2d3e496f79cae184e5dd012bda438f1de340e9f5f28c0a"
-metafile = true
-
-[[files]]
-file = "mods/terrablender.toml"
-hash = "d4756b40c0c7b6f455e061fcbf35c08c71ed242a41ec73a43827ddba6eb1afa0"
 metafile = true
 
 [[files]]
@@ -1213,11 +1188,6 @@ metafile = true
 [[files]]
 file = "mods/waystones.toml"
 hash = "d8d1dcb423fd92924a93d3b17228b6208d96cd517bacdf67eac3f0df267d5e3a"
-metafile = true
-
-[[files]]
-file = "mods/when-dungeons-arise.toml"
-hash = "d9ed54028303ed160e7085f1dc81ba92c85bb1518fb6323a7ccd8d4e05a5559a"
 metafile = true
 
 [[files]]
