@@ -526,6 +526,11 @@ hash = "57a9e8999bf186bea9d25872e09815baf70d7788b8ee880823c814a5c5d482e2"
 metafile = true
 
 [[files]]
+file = "mods/flat-bedrock.toml"
+hash = "4373c75401d0d125a283c94be05696a3401ab68fb4ced1ac6ec824441fd3e845"
+metafile = true
+
+[[files]]
 file = "mods/flywheel.toml"
 hash = "a4b88d7bbb0cdcc7e4d469da0d9d18073933449a0efde6df8f5c77678b5b9781"
 metafile = true
