@@ -1111,11 +1111,6 @@ hash = "d4756b40c0c7b6f455e061fcbf35c08c71ed242a41ec73a43827ddba6eb1afa0"
 metafile = true
 
 [[files]]
-file = "mods/terraforged.toml"
-hash = "04014e7ffa9385689ac14546885b4ff0cf1520a33a068a5d6284a73432300ae4"
-metafile = true
-
-[[files]]
 file = "mods/terralith.toml"
 hash = "cf7aeeb3e29bcd83af34db5e957946f869db78149a85c6bb31d46a3605963d85"
 metafile = true
