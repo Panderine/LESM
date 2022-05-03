@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.toml"
-hash = "801e78d8ec72495c943a1edb7afa7e2ed08be26a2999647b285158c870b2311b"
+hash = "760581f1e86951bb3fa02e0764e0d3d44acc2ecde98aa77b6de8842e506eec12"
 metafile = true
 
 [[files]]
@@ -403,6 +403,11 @@ metafile = true
 [[files]]
 file = "mods/dungeon-crawl.toml"
 hash = "bbd5d1ec9891f959fe784d7e2a7a94093d0742a9081c6bf613f6fc579deed030"
+metafile = true
+
+[[files]]
+file = "mods/dynmapforge.toml"
+hash = "7252d201eb4ea61fd68fb4fa949f4671b44b123e358e43d5e093da1d1c286489"
 metafile = true
 
 [[files]]
@@ -787,7 +792,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.toml"
-hash = "0cb58c8ff8de30ddbe7a14f1c6daa87f8098c3b84f5ef20d7749063a93682c87"
+hash = "539705ac3e8976c9599dde983e2d7294569073f31e11593875b2febc7e78a170"
 metafile = true
 
 [[files]]
