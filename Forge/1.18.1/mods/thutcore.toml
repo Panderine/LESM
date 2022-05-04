@@ -1,0 +1,13 @@
+name = "ThutCore"
+filename = "thutcore-1.18.1-8.7.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3607/763/thutcore-1.18.1-8.7.0.jar"
+hash-format = "sha1"
+hash = "d5dd72b00589b23c7bca7b13b72969a96a902c8b"
+
+[update]
+[update.curseforge]
+file-id = 3607763
+project-id = 224428

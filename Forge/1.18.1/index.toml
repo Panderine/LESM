@@ -46,6 +46,11 @@ hash = "ff95ccb4aab834fb53141d10c8b0b7aa89ba58f94d6e610620ce7859938ab9ab"
 metafile = true
 
 [[files]]
+file = "mods/alexs-mobs.toml"
+hash = "46788e813e9df4e74a3953426e1c2982da1f36b3aec577b16da3b96763ffe8b0"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.toml"
 hash = "a0f349267bf4f6b96a9068d71c13b5781d7e445abea36bf902ae6ffb9cec406b"
 metafile = true
@@ -133,6 +138,11 @@ metafile = true
 [[files]]
 file = "mods/better-biome-blend.toml"
 hash = "3af7a9d60ca1a280fa3d0ad622ff858c6c2abc81793506eaa6b5bcebc30879c7"
+metafile = true
+
+[[files]]
+file = "mods/better-boats.toml"
+hash = "a80050ac39d15694ae47f9ef6e53898c00c13e93e82b468a354c1daf4ed63dea"
 metafile = true
 
 [[files]]
@@ -596,6 +606,11 @@ hash = "7e3504ff83855b4a572fa10db2c4416428b7b306e928e8a59bf621ef31a5ea7e"
 metafile = true
 
 [[files]]
+file = "mods/idas.toml"
+hash = "e050c6aa088c39abfcc255356afcfc33833aa5f58f4f06d8777aa909d2f2f3f5"
+metafile = true
+
+[[files]]
 file = "mods/immersive-engineering.toml"
 hash = "fad77d84e0c1cd1a2b1c99a6236d8d9a2eeb07dee7f37e4ab4992a9d0210b225"
 metafile = true
@@ -971,6 +986,11 @@ hash = "bcf9f1e02756d2f31a38689544170c11166bd054a144897a6b235f333f074612"
 metafile = true
 
 [[files]]
+file = "mods/reusable-rockets.toml"
+hash = "6d75bd26765bd8c9df699779bb40036705814e84028b454129aff605983789f0"
+metafile = true
+
+[[files]]
 file = "mods/rftools-base.toml"
 hash = "ede696d4d7859df23eb8803d750dcd65861b9b31daa61f3d8636bc15a9c2bbc4"
 metafile = true
@@ -1076,6 +1096,11 @@ hash = "e126007cf20bffc4b48c0e6ca3956a1d9c63ba50b58e09f2f6b7dda8722047f0"
 metafile = true
 
 [[files]]
+file = "mods/stupid-horse-stand-still.toml"
+hash = "89a137082224191810beb21481d46945ae65534b72acc97530cb45101a6bb554"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.toml"
 hash = "e89462a22b0d5390b7adfa854293342973c0bd425bb8ef8c1c536c86b34a1e78"
 metafile = true
@@ -1088,6 +1113,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.toml"
 hash = "0b941cae7ce120cd1d09109a38b418a7ac3b5c90cea470848a8a9ee7c51bf504"
+metafile = true
+
+[[files]]
+file = "mods/tardim.toml"
+hash = "2c73b1e6a98b26d51f068849b75ddb0c6ec2fde9d69947fc7887be3d0de57a97"
 metafile = true
 
 [[files]]
@@ -1113,6 +1143,11 @@ metafile = true
 [[files]]
 file = "mods/the-undergarden.toml"
 hash = "d226410e76d37e55945de1c8662b70fb36bfbb5a7063a731acd797b80095a0a6"
+metafile = true
+
+[[files]]
+file = "mods/thutcore.toml"
+hash = "48dc38067b9830b7d66eb73568841c8e76cb790a4b4454d728bc4d84cd4e1c92"
 metafile = true
 
 [[files]]

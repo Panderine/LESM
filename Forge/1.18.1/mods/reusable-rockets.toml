@@ -1,0 +1,13 @@
+name = "Reusable Rockets"
+filename = "reusable_rockets-1.18.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3558/876/reusable_rockets-1.18.1-1.0.0.jar"
+hash-format = "sha1"
+hash = "c90a58b05cdd645bfd47d6b72722e179fbc4ae26"
+
+[update]
+[update.curseforge]
+file-id = 3558876
+project-id = 414249

@@ -1,0 +1,13 @@
+name = "TARDIM"
+filename = "tardim-1.1.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3592/903/tardim-1.1.4.jar"
+hash-format = "sha1"
+hash = "8e2547e0937c155fcc5cf9873b040f728c5762db"
+
+[update]
+[update.curseforge]
+file-id = 3592903
+project-id = 531315
