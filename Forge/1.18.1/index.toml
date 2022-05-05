@@ -807,7 +807,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.toml"
-hash = "09de63cd9cb90b668c1f52e09fda41b9c242fd4c7574a6a5a4b676e560ddb8c3"
+hash = "03b5c562c3c366089cfb05f1b495388ac1c91903ed8dd44381cc280c50eba466"
 metafile = true
 
 [[files]]
@@ -1187,7 +1187,7 @@ metafile = true
 
 [[files]]
 file = "mods/tsintegrations.toml"
-hash = "7a54b622877e16974c68113e7cb9e8f6e240b836514862ba7fb9687b7df010dd"
+hash = "70439978db814ba67155bf8cd09a0eded3a2b53cadabf689b6eaba1e367d5e79"
 metafile = true
 
 [[files]]
