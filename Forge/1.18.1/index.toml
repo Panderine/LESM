@@ -397,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/drawerfps.toml"
-hash = "d10ada164d06a56e9c5e5786a585e29037b5f36d67a50da9c5387e6487ae52cf"
+hash = "d7579d7da7e4bed89f400754e5357b28de5ac97445e99bc6557d39c0bc1f20d5"
 metafile = true
 
 [[files]]
@@ -607,7 +607,7 @@ metafile = true
 
 [[files]]
 file = "mods/idas.toml"
-hash = "e050c6aa088c39abfcc255356afcfc33833aa5f58f4f06d8777aa909d2f2f3f5"
+hash = "7d6df9ff8c2079c1f86f6cf72b1ae054ada6b6707196eb17512b1ee10d719bb4"
 metafile = true
 
 [[files]]
