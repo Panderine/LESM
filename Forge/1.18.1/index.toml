@@ -807,7 +807,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.toml"
-hash = "03b5c562c3c366089cfb05f1b495388ac1c91903ed8dd44381cc280c50eba466"
+hash = "477a060f550e26332f9f2d3876fe027e27f76cc823be7eb71e93362b7f3ec8e3"
 metafile = true
 
 [[files]]
@@ -898,6 +898,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-crashes-forge.toml"
 hash = "8f7d460c87fb4e1e350f9079327bb9cf39dfd6b8ec27d0094839e6a0615777c4"
+metafile = true
+
+[[files]]
+file = "mods/observable.toml"
+hash = "48754a2c232856384dfb5e74c579a724fb214d8b2958f45ad53d9c7464a5915d"
 metafile = true
 
 [[files]]
