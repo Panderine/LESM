@@ -1,0 +1,13 @@
+name = "AmbientSounds 5"
+filename = "AmbientSounds_v5.0.9_mc1.18.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3650/214/AmbientSounds_v5.0.9_mc1.18.1.jar"
+hash-format = "sha1"
+hash = "b3b135bc51d952cf878cdf65dd48d4f0b9ec25ae"
+
+[update]
+[update.curseforge]
+file-id = 3650214
+project-id = 254284

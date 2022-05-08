@@ -47,12 +47,22 @@ metafile = true
 
 [[files]]
 file = "mods/alexs-mobs.toml"
-hash = "46788e813e9df4e74a3953426e1c2982da1f36b3aec577b16da3b96763ffe8b0"
+hash = "607e8093ce478ffba52f6258d2fd44a249435feb3aa5308292beaaae6188214a"
 metafile = true
 
 [[files]]
 file = "mods/alternate-current.toml"
 hash = "a0f349267bf4f6b96a9068d71c13b5781d7e445abea36bf902ae6ffb9cec406b"
+metafile = true
+
+[[files]]
+file = "mods/ambient-environment.toml"
+hash = "bf45c862551b41cf84e69755ffc1d58431b5ad69d92826e188fe240e010271e2"
+metafile = true
+
+[[files]]
+file = "mods/ambientsounds.toml"
+hash = "43f77dececdedb46b0f6d5a333acb3ef31618850123325d396e3e9d04408a04b"
 metafile = true
 
 [[files]]
@@ -77,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-forge.toml"
-hash = "76670bfa22c546b19583f358b6b24d3756b7842e913073ada1c4fe04d3121ccc"
+hash = "95f02ddbd152763da9900b3f48885225e6839f6c34a0173eb091e0b74b815adb"
 metafile = true
 
 [[files]]
@@ -237,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config-forge.toml"
-hash = "89ce240e47591e1bb1dd4537c995d0fb73b2bcbc082fe163e5ed31d422deda4f"
+hash = "b580d42f92b7672d8fb7ccc32c04aa2637a28bd40bd68874e7b3b90a070eb805"
 metafile = true
 
 [[files]]
@@ -301,6 +311,11 @@ hash = "0870d5a1682778c5feddbec691737432abdddeb4d9c8a531217a74a84f86b184"
 metafile = true
 
 [[files]]
+file = "mods/crash-utilities.toml"
+hash = "e0ae415bfb65a2852d1885b5e78a6377b7feb6604649d62772373c1a7d6dea11"
+metafile = true
+
+[[files]]
 file = "mods/create-alloyed.toml"
 hash = "f62a13604f754de43b99651698d714a5fa8af945140efd98b5deaec6b27cfc32"
 metafile = true
@@ -323,6 +338,11 @@ metafile = true
 [[files]]
 file = "mods/createaddition.toml"
 hash = "59e3bb5dfbea6a4c174e511f4502803fa247acc4d3d6a17f28e87cd8b62c9edb"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.toml"
+hash = "6e4cf8dfd7e5d0add0a1d731e321bfb658db055b5ff4dae11ad42b6bda938bf8"
 metafile = true
 
 [[files]]
@@ -413,6 +433,11 @@ metafile = true
 [[files]]
 file = "mods/dungeon-crawl.toml"
 hash = "bbd5d1ec9891f959fe784d7e2a7a94093d0742a9081c6bf613f6fc579deed030"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-lights.toml"
+hash = "9b4c703610e2397458206b6044b278bc117475c8a3337da5bdc8b138ac3387a6"
 metafile = true
 
 [[files]]
@@ -518,6 +543,11 @@ metafile = true
 [[files]]
 file = "mods/farming-for-blockheads.toml"
 hash = "2bf6e6cbcff509af97c07e11885615ff9a7ce9e51e20361e126f04abae137d3a"
+metafile = true
+
+[[files]]
+file = "mods/farming-in-rain.toml"
+hash = "f06afe9af39f69d3eae1868ff3738caa4f932f64e5809c86e4636f54ae79f82e"
 metafile = true
 
 [[files]]
@@ -673,6 +703,16 @@ metafile = true
 [[files]]
 file = "mods/jei.toml"
 hash = "45d3fe69bc759277d8ea06711abc16200ca45583ddba0d0c6e3bf1a8e1b4bd50"
+metafile = true
+
+[[files]]
+file = "mods/jer-integration.toml"
+hash = "715af935ec4e7bfa8b4380549284d43f504b927b0be8f92d7465fd80e6c0f04a"
+metafile = true
+
+[[files]]
+file = "mods/journeymap-integration.toml"
+hash = "c2ae2c8803255e76da16a504de3a1362d61a67e7a97b6a48fb6e5942d5bdf536"
 metafile = true
 
 [[files]]
@@ -1243,6 +1283,11 @@ metafile = true
 [[files]]
 file = "mods/wiles-collection.toml"
 hash = "b1794f4c69da83843a32da4d505d7aeeb952368fea20b4608841ca594125c1c7"
+metafile = true
+
+[[files]]
+file = "mods/wither-skeleton-tweaks.toml"
+hash = "2755e989bc5d8b434a5abc9b427cc1814b89764b2ffbdd78cd6a55c5850e0711"
 metafile = true
 
 [[files]]

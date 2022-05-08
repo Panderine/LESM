@@ -1,0 +1,13 @@
+name = "Dynamic Lights"
+filename = "dynamiclights-1.18.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3735/498/dynamiclights-1.18.6.jar"
+hash-format = "sha1"
+hash = "402824c1f681413c9adfab3ddb2621bf28b3df5f"
+
+[update]
+[update.curseforge]
+file-id = 3735498
+project-id = 227874

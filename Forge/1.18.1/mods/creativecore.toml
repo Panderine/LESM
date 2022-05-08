@@ -1,0 +1,13 @@
+name = "CreativeCore"
+filename = "CreativeCore_v2.5.0_mc1.18.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3650/213/CreativeCore_v2.5.0_mc1.18.1.jar"
+hash-format = "sha1"
+hash = "1a4c94ab747611b7db7f2441ef0edb4f472307b6"
+
+[update]
+[update.curseforge]
+file-id = 3650213
+project-id = 257814

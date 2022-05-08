@@ -1,0 +1,13 @@
+name = "JER Integration"
+filename = "JER-Integration-2.3.0-experimental.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3741/223/JER-Integration-2.3.0-experimental.jar"
+hash-format = "sha1"
+hash = "8ad73d3e7d4ddbae95d8f90fd68c2748800cf039"
+
+[update]
+[update.curseforge]
+file-id = 3741223
+project-id = 506948
