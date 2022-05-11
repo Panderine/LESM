@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/alexs-mobs.toml"
-hash = "607e8093ce478ffba52f6258d2fd44a249435feb3aa5308292beaaae6188214a"
+hash = "945c7cdc4c83302b4b1a5f2b1ecbecaee25b0a1108aadb7aa0d5fe969c360db5"
 metafile = true
 
 [[files]]
@@ -632,7 +632,7 @@ metafile = true
 
 [[files]]
 file = "mods/idas.toml"
-hash = "7d6df9ff8c2079c1f86f6cf72b1ae054ada6b6707196eb17512b1ee10d719bb4"
+hash = "e5e65eea2bb6002eed770c500ce0a3ab86f00ff424af4b7dcb5a3a337ea02766"
 metafile = true
 
 [[files]]
@@ -842,7 +842,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.toml"
-hash = "477a060f550e26332f9f2d3876fe027e27f76cc823be7eb71e93362b7f3ec8e3"
+hash = "5f30e078a995d9eea0233d07222e3ff04a6b32d867dedc874fee7bafbf2555f5"
 metafile = true
 
 [[files]]
@@ -1092,7 +1092,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-chunk-save.toml"
-hash = "a6b2dca7491bcd828ba834a783914c4fcf5f722eb239fd60a64567b9a15bb3c4"
+hash = "b5bc1b43a63033296addda44ec7dff4424cc9a63a5d70c8ff7de89565cde3127"
 metafile = true
 
 [[files]]
