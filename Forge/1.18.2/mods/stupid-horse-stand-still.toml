@@ -1,0 +1,13 @@
+name = "Stupid Horse Stand Still"
+filename = "horsestandstill-1.18-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3546/32/horsestandstill-1.18-1.0.2.jar"
+hash-format = "sha1"
+hash = "d6e532f1dd54836722f42cc098d51c8d34350fa2"
+
+[update]
+[update.curseforge]
+file-id = 3546032
+project-id = 358241

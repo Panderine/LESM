@@ -1,0 +1,13 @@
+name = "Integrated Proxy"
+filename = "integrated_proxy-1.18.1-1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3630/983/integrated_proxy-1.18.1-1.1.jar"
+hash-format = "sha1"
+hash = "5a3fc5fb7e828666af2aa864bf6b52ec0f4f826a"
+
+[update]
+[update.curseforge]
+file-id = 3630983
+project-id = 487858

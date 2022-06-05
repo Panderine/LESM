@@ -1,0 +1,13 @@
+name = "Furnace Recycle (Forge)"
+filename = "furnacerecycle_1.18.2-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c165554004a4ea7c24fa66d9891f8792763a02d0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3670423
+project-id = 551140

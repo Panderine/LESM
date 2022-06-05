@@ -1,12 +1,12 @@
 name = "Les enfants sans mains"
 author = "Panderine"
 version = "1.0.0"
-pack-format = "packwiz:1.0.0"
+pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "03e40ae7cd93f65d412d9a2058d4b5a6af31544b85a81ff10bbef8ac76dc643d"
+hash = "4fcfcdd60ba31a472deb1879c74d681198007958f3add3943eaa230b7afc1dc4"
 
 [versions]
 forge = "39.1.2"

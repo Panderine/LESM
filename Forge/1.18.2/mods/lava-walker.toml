@@ -1,0 +1,13 @@
+name = "Lava Walker [Forge/Fabric]"
+filename = "lava_walker-1.18.1-0.6.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3777/222/lava_walker-1.18.1-0.6.4.jar"
+hash-format = "sha1"
+hash = "250e7ef1292b167b2da01d8d08a858b3d0a638db"
+
+[update]
+[update.curseforge]
+file-id = 3777222
+project-id = 580033

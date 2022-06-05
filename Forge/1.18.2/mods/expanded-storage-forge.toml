@@ -1,0 +1,13 @@
+name = "[Forge-Unused] Expanded Storage"
+filename = "expandedstorage-7.4.0-beta.3+1.18.2-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "93dc2506d94b6a84f84a555e2306f4ad4f4e3412"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3817060
+project-id = 362415

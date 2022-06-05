@@ -1,0 +1,13 @@
+name = "Farming in Rain"
+filename = "Farming-in-Rain-1.18.1-1.5.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3780/538/Farming-in-Rain-1.18.1-1.5.1.jar"
+hash-format = "sha1"
+hash = "81ed6e6d3a10745fa18280cedaec734fb486f674"
+
+[update]
+[update.curseforge]
+file-id = 3780538
+project-id = 392244

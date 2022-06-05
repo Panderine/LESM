@@ -1,0 +1,13 @@
+name = "Advancement Book"
+filename = "Advancement_Book-1.18.1-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3620/55/Advancement_Book-1.18.1-1.0.5.jar"
+hash-format = "sha1"
+hash = "8ce5b56031f0b58abf9dbe16fa131df5f0fca0d0"
+
+[update]
+[update.curseforge]
+file-id = 3620055
+project-id = 317211

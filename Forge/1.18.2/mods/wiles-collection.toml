@@ -1,0 +1,13 @@
+name = "WilE's Collection"
+filename = "wilescollection-1.18.2-1.1.1-b7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6810cab153904fd2c2b32997818549ca038ad07f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3734222
+project-id = 485960

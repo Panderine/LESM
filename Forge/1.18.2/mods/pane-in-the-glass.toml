@@ -1,0 +1,13 @@
+name = "Pane In The Glass"
+filename = "pitg-1.18.1-2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3602/263/pitg-1.18.1-2.0.2.jar"
+hash-format = "sha1"
+hash = "dc7bbb64fff09c33fc74cfbed0186b3fa0074cbe"
+
+[update]
+[update.curseforge]
+file-id = 3602263
+project-id = 374529

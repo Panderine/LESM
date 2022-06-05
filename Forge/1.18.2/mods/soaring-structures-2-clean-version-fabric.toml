@@ -1,0 +1,13 @@
+name = "Soaring Structures 2 - Clean Version - Forge / Fabric"
+filename = "Soaring-Structures-2-1.18.1-2.2-CleanVersion.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3631/846/Soaring-Structures-2-1.18.1-2.2-CleanVersion.jar"
+hash-format = "sha1"
+hash = "24de15f47918bbbde49c8852904e18d9afd78ce5"
+
+[update]
+[update.curseforge]
+file-id = 3631846
+project-id = 573693

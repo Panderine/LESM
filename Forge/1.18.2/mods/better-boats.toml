@@ -1,0 +1,13 @@
+name = "Better Boats"
+filename = "betterboats-1.1.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3586/257/betterboats-1.1.4.jar"
+hash-format = "sha1"
+hash = "104b18e494e9ac6dba08e70f580b48cfd03d8445"
+
+[update]
+[update.curseforge]
+file-id = 3586257
+project-id = 558031

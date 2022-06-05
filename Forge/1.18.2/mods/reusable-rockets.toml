@@ -1,0 +1,13 @@
+name = "Reusable Rockets"
+filename = "reusable_rockets-1.18.2-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2037b7155c7bad6a737ba97fb7def78ee6fff05f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3694389
+project-id = 414249

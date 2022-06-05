@@ -1,0 +1,13 @@
+name = "Dimensional Dungeons"
+filename = "dimdungeons-160-forge-1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "db3c063ddf3e95143f71b95f3b59897bee8aadfc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3800487
+project-id = 352222
