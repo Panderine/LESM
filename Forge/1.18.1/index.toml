@@ -316,16 +316,6 @@ hash = "e0ae415bfb65a2852d1885b5e78a6377b7feb6604649d62772373c1a7d6dea11"
 metafile = true
 
 [[files]]
-file = "mods/create-alloyed.pw.toml"
-hash = "09eddd511b6f72d8db436b35a55da9e997319c630f16fd1651842a65ebdfa094"
-metafile = true
-
-[[files]]
-file = "mods/create-alloyed.toml"
-hash = "b5fddbdf52d7ab2494b21bf7feff7c290ef3c2556878740ef29784ca9b672bfd"
-metafile = true
-
-[[files]]
 file = "mods/create-chunkloading.toml"
 hash = "720b349bf6bae688cfa512325b464007aca07528b099fc57180eddd2e47a5541"
 metafile = true
