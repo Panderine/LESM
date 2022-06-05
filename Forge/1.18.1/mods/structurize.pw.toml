@@ -1,10 +1,10 @@
 name = "Structurize"
-filename = "structurize-1.18.1-1.0.408-ALPHA.jar"
+filename = "structurize-1.18.1-1.0.401-RELEASE.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "eff602c951c84e5565bb3fd1e0e8e09def5d1ce9"
+hash = "3aee21a4e0817090fcd7ce1e53ecca69f6001d7c"
 mode = "metadata:curseforge"
 
 [update]

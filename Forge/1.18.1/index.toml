@@ -1131,8 +1131,8 @@ hash = "9061fe65ad033c423861fc3aaa61b28240f04c480a7ca28f8ae0a18735cdc398"
 metafile = true
 
 [[files]]
-file = "mods/structurize.toml"
-hash = "399da25567bb21b65de788646130a9bd4994383c230a0c01a3c78dd3392c678f"
+file = "mods/structurize.pw.toml"
+hash = "684cddfb2c85ad22632793153447b184879027ee7a2f68a750ebb3f767355f8b"
 metafile = true
 
 [[files]]
